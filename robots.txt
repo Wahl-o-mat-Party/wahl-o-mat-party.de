@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Wahl-o-mat-Party.github.io/wahl-o-mat-party.de/sitemap.xml
