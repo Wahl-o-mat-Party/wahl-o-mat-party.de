@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Wahl-o-mat-Party",
     "description": "",
-    "home_page_url": "https://Wahl-o-mat-Party.github.io/wahl-o-mat-party.de",
-    "feed_url": "https://Wahl-o-mat-Party.github.io/wahl-o-mat-party.de/feed.json",
+    "home_page_url": "https://wahl-o-mat-party.de",
+    "feed_url": "https://wahl-o-mat-party.de/feed.json",
     "user_comment": "",
     "author": {
         "name": "Tobias"
